@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Oculta o ícone/badge de desenvolvimento do Next.js */
+nextjs-portal {
+  display: none !important;
+}
